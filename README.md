@@ -1,4 +1,4 @@
 # demo
 This is my first git Repository.
 <br>
-Author - Drashti Soni
+Author - Drashti Patadiya
